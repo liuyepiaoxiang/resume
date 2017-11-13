@@ -3,7 +3,7 @@
  - 刘嘉/男/1989 
  - 本科/华中科技大学环境学院 
  - 工作年限：6年
- - Github：http://github.com/geekcompany 
+ - Github：https://github.com/liuyepiaoxiang
  - 联系方式：
    - 手机号码：待补
    - 微信：待补
